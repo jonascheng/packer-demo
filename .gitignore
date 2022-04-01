@@ -1,0 +1,4 @@
+**/.vagrant/**
+artifacts/**
+*.deb
+*.box
