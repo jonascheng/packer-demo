@@ -1,6 +1,6 @@
 ## Overview
 
-Build virtualbox or AMI image with packer.
+Build Vagrant box or AMI image with packer.
 
 ## Prerequisites
 
@@ -33,7 +33,7 @@ sudo apt install -y git make
 
 ## Build image
 
-### Build virtualbox image
+### Build Vagrant box image
 
 ```console
 make build-box-image
